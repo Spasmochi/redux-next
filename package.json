@@ -9,7 +9,11 @@
   },
   "dependencies": {
     "next": "9.5.4",
+    "prismic-javascript": "^3.0.2",
+    "prismic-reactjs": "^1.3.3",
+    "prismic-utils": "^6.4.5",
     "react": "16.13.1",
-    "react-dom": "16.13.1"
+    "react-dom": "16.13.1",
+    "twin.macro": "^1.10.0"
   }
 }
